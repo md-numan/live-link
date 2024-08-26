@@ -4,7 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="ec330dcb-31e5-4980-a25b-57e79413966d" name="Changes" comment="" />
+    <list default="true" id="ec330dcb-31e5-4980-a25b-57e79413966d" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/New-folder.project" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -19,7 +21,8 @@
     </option>
   </component>
   <component name="Git.Settings">
-    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/New-folder.project" />
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+    <option name="ROOT_SYNC" value="DONT_SYNC" />
   </component>
   <component name="ProjectColorInfo">{
   &quot;associatedIndex&quot;: 6
@@ -33,7 +36,7 @@
   "keyToString": {
     "DefaultHtmlFileTemplate": "HTML File",
     "RunOnceActivity.ShowReadmeOnStart": "true",
-    "git-widget-placeholder": "main",
+    "git-widget-placeholder": "<unknown>",
     "list.type.of.created.stylesheet": "CSS",
     "node.js.detected.package.eslint": "true",
     "node.js.detected.package.tslint": "true",
@@ -62,7 +65,7 @@
       <workItem from="1723718661486" duration="8000" />
       <workItem from="1724577756171" duration="2789000" />
       <workItem from="1724590621518" duration="3660000" />
-      <workItem from="1724659392464" duration="1690000" />
+      <workItem from="1724659392464" duration="2808000" />
     </task>
     <servers />
   </component>
